@@ -7,3 +7,6 @@ A simple PCB designed for my girlfriend.
 4. PCB Design Software (KiCad)
 ![](Poster_Image.png)
 ## Schematic
+![](Schematic_Image.png)
+## PCB
+![](PCB_Image.png)
